@@ -1,0 +1,2 @@
+#!/bin/bash
+grep -A3 "root" archivo.txt | head -n 4 | tail -n 1
