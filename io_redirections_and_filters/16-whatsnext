@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -A3 "root" archivo.txt | head -n 4 | tail -n 1
+grep -A3 "root" /etc/passwd | head -n 4 | tail -n 1
