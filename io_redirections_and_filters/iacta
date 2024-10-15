@@ -12,3 +12,4 @@ sed '3!d' my.txt
 # Tell awk to print the third input record of the current file 
 awk 'FNR==3 {print}' my.txt 
 Add invocations in your favorite scripting language, and we’re probably up to the dozens of options.
+Add invocations in your favorite scripting language, and we’re probably up to the dozens of options.
